@@ -4,6 +4,7 @@ Option 1) Go to Releases > Download Latest Release
 Option 2) Download Source Code
 		
 `pip install -r requirements.txt`
+
 `python main.py`
 ## About:
 
