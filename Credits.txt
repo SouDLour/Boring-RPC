@@ -1,0 +1,4 @@
+GUI : PySide6 - My Favorite python library for making GUI. Unfortunately, not using python in awhile, means I need to relearn some of it.
+
+ICON: Python Icon is from "ARS_Individual Icons" pack, originally made for windows icon to be replaced by icon changer tools.
+
